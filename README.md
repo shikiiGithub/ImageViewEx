@@ -1,6 +1,6 @@
 # ImageViewEx 
 
-##其实为ImageViewZoomHelper，这样方便索引。(with a helper called ImageViewZoomHelper can easily handle interactive Actions )
+## 其实为ImageViewZoomHelper，这样方便索引。(with a helper called ImageViewZoomHelper can easily handle interactive Actions )
 A simple ImageView which can pan,scale image.一个安卓ImageView 控件的辅助类，可以手势缩放，平移，双击之后恢复到原始状态。
 
 iv 为ImageView 此处为初始化辅助类。（iv is a ImageView and a line below for Initializing a Helper  Handling Pan,Scale Actions.)
