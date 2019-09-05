@@ -15,3 +15,5 @@ iv 为ImageView 此处为初始化辅助类。（iv is a ImageView and a line be
  
 
 ![1.png](https://github.com/shikiiGithub/ImageViewEx/blob/master/2.PNG)
+
+done
